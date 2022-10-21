@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @songhaozhan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning golang
+- 🌱 My golang programming skills are very strong
 
 <!---
 songhaozhan/songhaozhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
